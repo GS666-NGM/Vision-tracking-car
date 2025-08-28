@@ -1,0 +1,16 @@
+2024h\interpolationfunctionsf16.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/InterpolationFunctions/InterpolationFunctionsF16.c
+2024h\interpolationfunctionsf16.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/InterpolationFunctions/arm_bilinear_interp_f16.c
+2024h\interpolationfunctionsf16.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/interpolation_functions_f16.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types_f16.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types.h
+2024h\interpolationfunctionsf16.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+2024h\interpolationfunctionsf16.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\ARM\ARMCC\Bin\..\include\math.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\ARM\ARMCC\Bin\..\include\float.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\ARM\ARMCC\Bin\..\include\limits.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_memory.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/none.h
+2024h\interpolationfunctionsf16.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/utils.h
+2024h\interpolationfunctionsf16.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/InterpolationFunctions/arm_linear_interp_f16.c

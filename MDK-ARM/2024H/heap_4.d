@@ -1,0 +1,14 @@
+2024h\heap_4.o: ..\Middle\FreeRTOS\portable\MemMang\heap_4.c
+2024h\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+2024h\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+2024h\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+2024h\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+2024h\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/projdefs.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/portable.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+2024h\heap_4.o: ../Middle/FreeRTOS/portable/portmacro.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/task.h
+2024h\heap_4.o: ../Middle/FreeRTOS/include/list.h

@@ -1,0 +1,17 @@
+2024h\bayesfunctions.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/BayesFunctions/BayesFunctions.c
+2024h\bayesfunctions.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/BayesFunctions/arm_gaussian_naive_bayes_predict_f32.c
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/bayes_functions.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types.h
+2024h\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+2024h\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+2024h\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+2024h\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+2024h\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\math.h
+2024h\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\float.h
+2024h\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\limits.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_memory.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/none.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/utils.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/statistics_functions.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/basic_math_functions.h
+2024h\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/fast_math_functions.h
